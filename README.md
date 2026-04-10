@@ -4,7 +4,7 @@
 <!--              ANIMATED HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=220&section=header&text=Parimi%20Gayatri%20Srivarshini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SWE%20Intern%20%7C%20AI%20%26%20Prompt%20Engineer%20%7C%20Data%20Analyst%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=220&section=header&text=Parimi%20Gayatri%20Srivarshini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SWE%20Intern%20%C2%B7%20AI%20%C2%B7%20Prompt%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Builder&descAlignY=60&descSize=18&animation=fadeIn)
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--               TYPEWRITER INTRO                      -->
