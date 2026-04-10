@@ -4,7 +4,7 @@
 <!--              ANIMATED HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=200&section=header&text=Gayatri%20Srivarshini&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SWE%20Intern%20%7C%20AI%20%26%20Prompt%20Engineer%20%7C%20Data%20Analyst%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F00FF,50:E100FF,100:FF6FD8&amp;height=220&amp;section=header&amp;text=Parimi%20Gayatri%20Srivarshini&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=SWE%20Intern%20%7C%20AI%20%26%20Prompt%20Engineer%20%7C%20Data%20Analyst%20%7C%20Builder&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="Header Banner" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--               TYPEWRITER INTRO                      -->
@@ -58,7 +58,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 - 🔭 &nbsp;**Software Engineer Intern** @ YughTube OPC Pvt. Limited, Ahmedabad *(Jan 2026 – Present)*
 - 📊 &nbsp;Ex **Data Analyst Intern** @ Edulyt India, Delhi *(May–Jul 2025)*
-- 🚀 &nbsp;**Technical Trainee** — India Space Lab *(Feb–Mar 2026)* — competitively selected
+- 🚀 &nbsp;**Technical Trainee** — India Space LabTek *(Feb–Mar 2026)* — competitively selected
 - 🌸 &nbsp;**Student Administrator** — Women Development Cell, Gujarat Vidyapith *(Sep 2025 – Present)*
 - 🤖 &nbsp;Built **SkillPath** — an AI-powered mobile learning assistant with LLM-based recommendations
 - 🌊 &nbsp;Built **Aqua Insights** — end-to-end ML pipeline for ocean data analysis
@@ -75,7 +75,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" style="border-radius: 20px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
 
 <br/><br/>
 
@@ -169,14 +169,14 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 ┌──────────────────────────────────────────────────────────────────────┐
 │  🚀  India Space LabTek — Technical Trainee                          │
-│  📅  Mar 2026 – Mar 2026  (Competitively Selected — Feb 2026)        │
+│  📅  Feb 2026 – Mar 2026  (Competitively Selected)                   │
 │                                                                       │
 │  ✦ Applied CS fundamentals in cross-disciplinary engineering domains │
 │  ✦ Demonstrated adaptability in fast-paced technical environments    │
 └──────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────────┐
-│  📊  Edulyt IndiaOrg — Data Analyst Intern                           │
+│  📊  Edulyt India — Data Analyst Intern                              │
 │  📍  Delhi, India                      📅  May 2025 – Jul 2025       │
 │                                                                       │
 │  ✦ Built reusable Python (Pandas/NumPy) & SQL data pipelines         │
@@ -282,7 +282,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 ## 🌟 Achievements & Leadership
 
 ```
-🚀  Competitively selected for India Space Lab Technical Training Program — Feb 2026
+🚀  Competitively selected for India Space LabTek Technical Training Program — Feb 2026
 
 🌸  Managed Women Development Cell events with 100+ participants
     as Student Administrator — Sep 2025 onwards
@@ -307,15 +307,15 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayatriParimiDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=FF6FD8&text_color=ffffff" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayatriParimiDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=FF6FD8&text_color=ffffff" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriParimiDev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=ffffff" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriParimiDev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriParimiDev&theme=radical&hide_border=true&background=0D1117&stroke=C77DFF&ring=FF6FD8&fire=FF6FD8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriParimiDev&theme=radical&hide_border=true&background=0D1117&stroke=C77DFF&ring=FF6FD8&fire=FF6FD8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -329,7 +329,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayatriParimiDev&bg_color=0D1117&color=C77DFF&line=FF6FD8&point=ffffff&area=true&hide_border=true&area_color=7F00FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayatriParimiDev&bg_color=0D1117&color=C77DFF&line=FF6FD8&point=ffffff&area=true&hide_border=true&area_color=7F00FF" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -372,7 +372,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:E100FF,100:7F00FF&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6FD8,50:E100FF,100:7F00FF&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
 
 **⭐ Star my repos if you find them useful!**
 
