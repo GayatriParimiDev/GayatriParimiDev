@@ -4,7 +4,7 @@
 <!--              ANIMATED HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F00FF,50:E100FF,100:FF6FD8&amp;height=220&amp;section=header&amp;text=Parimi%20Gayatri%20Srivarshini&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=SWE%20Intern%20%7C%20AI%20%26%20Prompt%20Engineer%20%7C%20Data%20Analyst%20%7C%20Builder&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="Header Banner" width="100%" />
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=220&section=header&text=Parimi%20Gayatri%20Srivarshini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SWE%20Intern%20%7C%20AI%20%26%20Prompt%20Engineer%20%7C%20Data%20Analyst%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn)
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--               TYPEWRITER INTRO                      -->
@@ -372,7 +372,7 @@ currently  : Software Engineer Intern @ YughTube OPC Pvt. Limited
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6FD8,50:E100FF,100:7F00FF&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:E100FF,100:7F00FF&height=120&section=footer)
 
 **⭐ Star my repos if you find them useful!**
 
