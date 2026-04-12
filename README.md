@@ -14,20 +14,8 @@
 
 </div>
 
----
 
-<div align="center">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                VISITOR COUNTER                      -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=GayatriParimiDev&style=for-the-badge&color=blueviolet&label=Profile+Visitors)
-[![GitHub followers](https://img.shields.io/github/followers/GayatriParimiDev?style=for-the-badge&color=purple&logo=github)](https://github.com/GayatriParimiDev)
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--               ABOUT ME SECTION                     -->
